@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary colors (now food-themed) -->
+    <color name="primary_light">#FF7F4BFF</color>  <!-- Vibrant purple -->
+    <color name="primary_main">#FF5F2EEA</color>   <!-- Royal purple -->
+    <color name="primary_dark">#FF3D1AC9</color>   <!-- Deep purple -->
+
+    <!-- Secondary colors (complementary food colors) -->
+    <color name="secondary_light">#FFFF9E80</color> <!-- Salmon -->
+    <color name="secondary_main">#FFFF7043</color>  <!-- Orange -->
+    <color name="secondary_dark">#FFE65100</color> <!-- Dark orange -->
+
+    <!-- Neutral colors -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="gray_50">#FFF8F9FA</color>      <!-- Light background -->
+    <color name="gray_100">#FFE9ECEF</color>     <!-- Card backgrounds -->
+    <color name="gray_800">#FF343A40</color>      <!-- Dark text -->
+    <color name="gray_900">#FF212529</color>      <!-- Dark surfaces -->
+
+    <!-- Food-specific accent colors -->
+    <color name="accent_green">#FF4CAF50</color>  <!-- Fresh ingredients -->
+    <color name="accent_red">#FFF44336</color>    <!-- Spicy/important elements -->
+    <color name="accent_yellow">#FFFFEB3B</color> <!-- Highlights -->
+
+    <!-- Status colors -->
+    <color name="success">#FF4CAF50</color>
+    <color name="warning">#FFFFC107</color>
+    <color name="error">#FFF44336</color>
+
+    <!-- Dark theme variants -->
+    <color name="dark_primary">#FF9575FF</color>
+    <color name="dark_secondary">#FFFF8A65</color>
+    <color name="dark_surface">#FF121212</color>
+    <color name="dark_on_surface">#FFFFFFFF</color>
+    <color name="dark_background">#FF1E1E1E</color>
+</resources>

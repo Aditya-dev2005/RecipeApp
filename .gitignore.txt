@@ -1,0 +1,31 @@
+# Ignore Gradle and build-related files
+.gradle/
+build/
+**/build/
+local.properties
+
+# Ignore IDE settings
+.idea/
+*.iml
+
+# Ignore caches and other generated files
+.caches/
+caches/
+daemon/
+.tmp/
+*.log
+
+# Ignore OS system files
+.DS_Store
+Thumbs.db
+
+# Ignore APKs and other binaries
+*.apk
+*.jar
+
+# Ignore wrapper logs
+gradlew.bat
+gradlew
+
+# Ignore miscellaneous
+*.keystore
